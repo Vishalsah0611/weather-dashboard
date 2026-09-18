@@ -30,3 +30,4 @@ time (each day tab holds its own set of 3-hour slot cards — 40 slots total).
 - `hooks/useGeolocation.js` — wraps `navigator.geolocation`
 - `utils/groupByDay.js` — buckets the flat 40-slot list into 5 days
 - `schemas/citySchema.js` — zod validation for the search field
+Weather dashboard project updated.
